@@ -46,10 +46,11 @@ function sortearAmigo(){
        let amigoSorteado = amigos[posicionAleatoria]
        
         console.log(amigoSorteado)
- document.querySelector(".section-title").innerHTML +=`<br>EL  Ganador Es <br>${amigoSorteado}`;
+ document.querySelector(".section-title").innerHTML +=`<br>EL  ganador es: <br>${amigoSorteado}`;
     }
 
 }
+
 
 
 
