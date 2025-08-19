@@ -39,7 +39,7 @@ function agregarAmigo() {
 
 
 function sortearAmigo(){
-    if(amigos.length === 0){alert("Eres un hacker, ya que si no agregaste nada te hubieras quedado en la funcion pasada")}
+    if(amigos.length === 0){alert("Añada un amigo antes de realizar el sorteo")}
     else{
 
         let posicionAleatoria =   Math.floor(Math.random()*amigos.length)
@@ -50,5 +50,6 @@ function sortearAmigo(){
     }
 
 }
+
 
 
