@@ -19,8 +19,9 @@ Mostrar en pantalla la lista de amigos.
 Sortear de forma aleatoria un ganador.  
 
 ## Cómo usar  
-1. Clona este repositorio:  
+ Clona este repositorio:  
    ```bash
    git clone https://github.com/tu-usuario/Challenge-Añadir-amigo-sorteo.git
+O pruebalo desde el repositorio
 
 
